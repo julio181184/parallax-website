@@ -59,3 +59,7 @@ footer.page-footer {
 .sombrita {
   background-color: rgba(50,50,50,0.4);
 }
+
+body, .natbar {
+  background-color: rgb(210,210,215);
+}
